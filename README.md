@@ -66,7 +66,7 @@ GitHub: [@MOHDSAQIB123](https://github.com/MOHDSAQIB123)
 
 For any queries or collaboration, feel free to reach out:  
 📧 Email: saqibjmi786695@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/mohdsaqib123](www.linkedin.com/in/mohd-saqib-94b6042ba)
+🔗 LinkedIn: [linkedin.com/in/mohd-saqib-94b6042ba)](www.linkedin.com/in/mohd-saqib-94b6042ba)
 
 ---
 
