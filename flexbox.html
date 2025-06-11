@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flexbox Layout | SaralTech</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+
+ 
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+ 
+  <link rel="stylesheet" href="stylea.css" />
+</head>
+<body>
+
+  <header>
+    <h1><i class="fas fa-code"></i> Saral Groups</h1>
+  </header>
+
+  <nav>
+    <ul class="nav-links">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main class="flex-container">
+    <div class="flex-item" data-aos="fade-up"><i class="fas fa-laptop-code"></i><p>Web Development</p></div>
+    <div class="flex-item" data-aos="fade-down"><i class="fas fa-database"></i><p>Data Handling</p></div>
+    <div class="flex-item" data-aos="zoom-in"><i class="fas fa-mobile-alt"></i><p>Mobile Apps</p></div>
+    <div class="flex-item" data-aos="flip-left"><i class="fas fa-brain"></i><p>AI Projects</p></div>
+    <div class="flex-item" data-aos="fade-up-right"><i class="fas fa-server"></i><p>Backend Dev</p></div>
+    <div class="flex-item" data-aos="fade-left"><i class="fas fa-user-shield"></i><p>Cyber Security</p></div>
+  </main>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea rows="4" placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+  <p>Created by MOHD SAQIB</p>
+
+  <footer>
+    <p>© 2025 <i class="fas fa-heart"></i> SaralTech. All rights reserved.</p>
+  </footer>
+
+  <!-- AOS JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+</body>
+</html>
